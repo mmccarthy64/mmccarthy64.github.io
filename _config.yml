@@ -1,11 +1,11 @@
 # Site settings
 author: Matthew McCarthy
-title: 
+title: Matthew's Blog
 header-img: img/home-bg.png
 email: mmccarthy64@hotmail.com
 copyright_name: Matthew McCarthy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog of Software Engineering exploits
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mmccarthy64
